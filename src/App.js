@@ -9,5 +9,5 @@ function App()
     </>
   )
 }
-// 
+// can call only one function /// ctr + c
 export default App;
